@@ -35,3 +35,13 @@ To start, I've created a checklist using the job ad:
 - [ ] 12 Connecting business logic to code
 - [ ] 13 Not afraid to make mistakes
 - [ ] 14 Use data and logic to backup decisions and improve understanding
+
+This list might change over time but the goal will stay the same - competitive positioning of myself.
+
+I've created the .md file 'todo'. I'm used to having a file like this to use as a scratch space for my thoughts.
+
+I'm not new to programming but there's always more to learn. Looking at the list above I think I'll start from looking into one of the Python web frameworks. After a bit of research, this site https://testdriven.io/blog/django-vs-flask/ told me:
+
+> In almost all cases, it's recommended to learn Flask before Django. The only time you should deviate from that is when you just need to get an app up quick to satisfy some external stakeholder.
+
+I'm in no rush. Let's start with Flask.
