@@ -47,3 +47,11 @@ I'm not new to programming but there's always more to learn. Looking at the list
 I'm in no rush. Let's start with Flask.
 
 ⬅️💻☕ Next to a checklist item will mean I'm currently working on it.
+
+Captain's log 2019-11-29 00:33 Created .py file 'hello'.
+
+I've setup Flask to run on my home network. Now following this Quickstart to learn more about it: https://flask.palletsprojects.com/en/1.1.x/quickstart/
+
+Pretty cool so far. Hitting the hay soon, though.
+
+I think I'll continue this DevLog format for this repository. It's pretty fun :)
