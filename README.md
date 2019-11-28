@@ -16,7 +16,7 @@ To start, I've created a checklist using the job ad:
     - [ ] 4.2 Abstraction
     - [ ] 4.3 Encapsulation
 - [ ] 5 Python web frameworks
-    - [ ] 5.1 Flask
+    - [ ] 5.1 Flask ⬅️💻☕
     - [ ] 5.2 Django
 - [ ] 6 Interacting with Postgres from Python
 - [ ] 7 ORMs
@@ -45,3 +45,5 @@ I'm not new to programming but there's always more to learn. Looking at the list
 > In almost all cases, it's recommended to learn Flask before Django. The only time you should deviate from that is when you just need to get an app up quick to satisfy some external stakeholder.
 
 I'm in no rush. Let's start with Flask.
+
+⬅️💻☕ Next to a checklist item will mean I'm currently working on it.
