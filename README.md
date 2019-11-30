@@ -55,3 +55,6 @@ I've setup Flask to run on my home network. Now following this Quickstart to lea
 Pretty cool so far. Hitting the hay soon, though.
 
 I think I'll continue this DevLog format for this repository. It's pretty fun :)
+
+Continuing. Finished Quickstart, moving on to the official Flask tutorial:
+https://flask.palletsprojects.com/en/1.1.x/tutorial/layout/
