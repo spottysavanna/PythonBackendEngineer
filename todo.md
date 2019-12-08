@@ -1,4 +1,3 @@
 -- TODO --
 
-- wtf is Flask?
-
+- Complete the flask tutorial
